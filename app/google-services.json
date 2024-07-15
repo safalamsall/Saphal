@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797906192095",
+    "project_id": "saphal-5ddd0",
+    "storage_bucket": "saphal-5ddd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797906192095:android:32a3bd54890573d8384b6a",
+        "android_client_info": {
+          "package_name": "com.example.saphal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGF9MAnBXgqw5S0mLPrEMSiu9agOFbvk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
